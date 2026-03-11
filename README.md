@@ -69,5 +69,8 @@ Your report should include:
   - BER analyzer output  
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
-
+![WhatsApp Image 2026-03-11 at 11 01 07](https://github.com/user-attachments/assets/3f964da3-af21-4bca-8538-cfc08a3219a8)
+![WhatsApp Image 2026-03-11 at 11 01 18](https://github.com/user-attachments/assets/9461bcbe-c9c2-4580-bb6c-c03ed06efba9)
+![WhatsApp Image 2026-03-11 at 11 01 37](https://github.com/user-attachments/assets/a5ef7c5c-a71f-4cb6-a361-0cfb56f90151)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4e197502-1199-48e4-ad4c-7a847f6c4d64" />
 ---
