@@ -74,3 +74,11 @@ Your report should include:
 ![WhatsApp Image 2026-03-11 at 11 01 37](https://github.com/user-attachments/assets/a5ef7c5c-a71f-4cb6-a361-0cfb56f90151)
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4e197502-1199-48e4-ad4c-7a847f6c4d64" />
 ---
+
+## RESULT
+
+The receiver sensitivity is the minimum optical power required to achieve the desired Q factor, considering thermal noise in the system.
+
+The simulation results closely match the analytical calculations, with minor variations due to practical noise and system limitations.
+
+---
